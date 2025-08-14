@@ -1,16 +1,17 @@
 <!-- README.md for Nipashree's GitHub Profile -->
 
 <h1 align="center">Hey 👋, I'm Nipashree Bhattacharya</h1>
-<h3 align="center">🚀 B.Tech CSE | C++ & Python Enthusiast | Future Cybersecurity & AI Explorer 🛡️🤖</h3>
+<h3 align="center">🚀 B.Tech CSE | C++ & Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 Currently in **3rd year B.Tech in Computer Science & Engineering**
 - 💻 Passionate about **C++**, **Python**, and exploring **Cybersecurity**, **AI**, and **Ethical Hacking**
-- 🥋 **Karate Black Belt Learner** – keeping my body and mind active in all situations
+- ✈️ Keen interest in **Aerospace & Aeronautics** — curious about tech that reaches beyond Earth 🌌
+- 🥋 **Karate Learner** – keeping my body and mind active in all situations
 - 🌱 Always curious about **new tech**, **problem-solving**, and **innovations**
-- 🎯 Goal: Build tech that **protects**, **learns**, and **creates** 🌐
+- 🎯 Goal: Build tech that **protects**, **learns**, **creates**, and **flies** 🚀
 
 ---
 
@@ -22,6 +23,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Aerospace%20Tech-1E90FF?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 ---
@@ -35,7 +37,7 @@
 ---
 
 ### 🌟 Fun Quote
-> 🥋 *"In coding and karate, the key is discipline — precision in logic and movement."*
+> 🥋 *"In coding, karate, and aerospace — precision decides success."*
 
 ---
 
