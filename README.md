@@ -1,7 +1,7 @@
 <!-- README.md for Nipashree's GitHub Profile -->
 
 <h1 align="center">Hey 👋, I'm Nipashree Bhattacharya</h1>
-<h3 align="center">🚀 B.Tech CSE | C++ & Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
+<h3 align="center">🚀 B.Tech CSE | Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
 
 ---
 
