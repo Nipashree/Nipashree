@@ -1,7 +1,7 @@
 <!-- README.md for Nipashree's GitHub Profile -->
 
-![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) 
-**Hey 👋, I'm Nipashree Bhattacharya**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF69B4&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Nipashree+Bhattacharya!)
+
 
 <h3 align="center">🚀 B.Tech CSE | Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
 
