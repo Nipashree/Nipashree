@@ -57,7 +57,7 @@
 
 ### 🏆 GitHub Achievements
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=nipashree-bhattacharya&theme=darkhub&margin-w=10&margin-h=10&no-frame=true)
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=nipashree&theme=darkhub&margin-w=10&margin-h=10&no-frame=true)
 
 
 ### 🌟 Fun Quote
