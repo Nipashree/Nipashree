@@ -55,6 +55,11 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=nipashree-bhattacharya&theme=darkhub&margin-w=10&margin-h=10&no-frame=true)
+
+
 ### 🌟 Fun Quote
 > 🥋 *"In coding, karate, and aerospace — precision decides success."*
 
