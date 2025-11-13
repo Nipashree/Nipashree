@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF4500&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Nipashree+Bhattacharya!;✨+Coder+%7C+Tech+Explorer+%7C+Dreamer+🚀;Loves+AI,+Aerospace,+and+Cybersecurity+💻🔐;Always+Learning,+Always+Building+⚡)
 
-
-
 <h3 align="center">🚀 B.Tech CSE | Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
 
 ---
@@ -40,24 +38,29 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=red" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=orange" alt="Dart" />
-
 </p>
-
-
-
-
-
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- 🟢 Modern Activity Card -->
+![GitHub Streak](https://streak-stats.demolab.com?user=nipashreebhattacharya&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+<!-- 🟢 Classic Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nipashree&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipashree&theme=tokyonight" alt="GitHub streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=nipashreebhattacharya&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipashreebhattacharya&theme=tokyonight" alt="GitHub streak" height="180" />
 </p>
 
----
+<!-- 🟢 Total Contributions & Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nipashreebhattacharya&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
 
+</div>
+
+---
 
 ### 🌟 Fun Quote
 > 🥋 *"In coding, karate, and aerospace — precision decides success."*
@@ -66,7 +69,7 @@
 
 ### 📬 Let's Connect
 <p align="center">
-<a href="https://github.com/Nipashree"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/nipashreebhattacharya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
