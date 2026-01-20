@@ -45,9 +45,21 @@
 
 </p>
 
+<div align="center">
 
+<!-- 🔥 Solidity / GitHub Activity Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=nipashreebhattacharya&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+<!-- 📈 Overall GitHub Stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nipashreebhattacharya&show_icons=true&theme=radical" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipashreebhattacharya&theme=radical" height="180" />
+</p>
 
+<!-- 🌐 Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nipashreebhattacharya&theme=github-dark&hide_border=true&area=true" width="95%" />
+
+</div>
 
 
 ---
