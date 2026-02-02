@@ -48,7 +48,8 @@
 <img src="https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logo=truffle&logoColor=black" />
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=black" />
-  
+<img src="https://img.shields.io/badge/Smart%20Contracts-0A0A0A?style=for-the-badge&logo=ethereum&logoColor=white" />
+
 </p>
 
 
