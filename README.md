@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=black" />
 <img src="https://img.shields.io/badge/Smart%20Contracts-0A0A0A?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Blockchain%20Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 </p>
 
