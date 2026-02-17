@@ -52,7 +52,6 @@
 <img src="https://img.shields.io/badge/Smart%20Contracts-0A0A0A?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Blockchain%20Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipashreebhattacharya&theme=radical" height="180" />
 
 </p>
 
