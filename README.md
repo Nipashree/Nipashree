@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">🚀 B.Tech CSE | Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
+<h3 align="center">🚀 B.Tech C | Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
 
 ---
 
