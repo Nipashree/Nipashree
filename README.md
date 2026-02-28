@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 AboutMe
+### 🧑‍💻 About Me
 - 🎓 Currently in **3rd year B.Tech in Computer Science & Engineering**
 - 💻 Passionate about **C++**, **Python**, and exploring **Cybersecurity**, **AI**, and **Ethical Hacking**
 - ✈️ Keen interest in **Aerospace & Aeronautics** — curious about tech that reaches beyond Earth 🌌
