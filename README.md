@@ -60,11 +60,11 @@
 ### 📊 GitHub Stats
 ## 🏆 GitHub Stats & Activity
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nipashreebhattacharya&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-</div>
+</div> -->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nipashree&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
