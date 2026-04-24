@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF4500&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Nipashree+Bhattacharya!;✨+Coder+%7C+Tech+Explorer+%7C+Dreamer+🚀;Loves+AI,+Aerospace,+and+Cybersecurity+💻🔐;Always+Learning,+Always+Building+⚡)
 
 
-<h3 align="center">🚀 B.Tech CSE | Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer 🛡️🤖✈️</h3>
+<h3 align="center">🚀 B.Tech CSE | Python Enthusiast | Future Cybersecurity, AI & Aerospace Explorer🛡️🤖✈️</h3>
 
 ---
 
